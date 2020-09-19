@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\LinqIkub\LinqIkub\bin\Debug\LinqIkub.exe.config
+C:\Users\user\source\repos\LinqIkub\LinqIkub\bin\Debug\LinqIkub.exe
+C:\Users\user\source\repos\LinqIkub\LinqIkub\bin\Debug\LinqIkub.pdb
+C:\Users\user\source\repos\LinqIkub\LinqIkub\obj\Debug\LinqIkub.csprojAssemblyReference.cache
+C:\Users\user\source\repos\LinqIkub\LinqIkub\obj\Debug\LinqIkub.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LinqIkub\LinqIkub\obj\Debug\LinqIkub.exe
+C:\Users\user\source\repos\LinqIkub\LinqIkub\obj\Debug\LinqIkub.pdb
